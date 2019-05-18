@@ -8,6 +8,7 @@ Make a quick template with the w3.css framework by using the sections you want a
 ### License
 * W3.css has no license as per their website.
 * This template uses an MIT license.
+* Sample images are from pexels.com
 
 ### Turn into a CMS
 * Use our CouchCMS template helper (coming soon) to turn this or any template into a full CMS
